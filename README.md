@@ -1,5 +1,7 @@
 # cgem2amrvac
 
+This version so far only runs on intel chipsets
+
 Required to run this pipeline:
  - f2py(numpy)
  - sdf
